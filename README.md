@@ -16,26 +16,23 @@ In classical Game Theory, rational agents inevitably defect within the Prisoner'
 
 1. **Clone the repository**
    bash
-   git clone [https://github.com/zenzielke/quantum_prisoners.git](https://github.com/zenzielke/quantum_prisoners.git)
-   cd quantum-prisoners-dilemma
+   git clone [https://github.com/zenzielke/quantum-prisoners.git](https://github.com/zenzielke/quantum-prisoners.git)
+   cd quantum-prisoners
 
 
 2. **Install dependencies**
    ```
-   bash
    pip install -r requirements.txt
    ```
 ## Usage
 
 **To Run the Web App:**
    ```
-   bash
    streamlist run app.py
    ```
 
 **To Run just the Simulation:**
    ```
-   bash
    python quantum_sim.py
    ```
 
